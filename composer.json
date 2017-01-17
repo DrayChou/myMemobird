@@ -1,0 +1,5 @@
+{
+    "require": {
+        "atans/memobird": "^1.0"
+    }
+}
